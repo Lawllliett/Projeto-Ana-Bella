@@ -1,0 +1,29 @@
+body {
+    background-image: url(./Imagens/fundo.png);
+}
+
+#Capa {
+    border: 2px solid red;
+    top: 10px;
+    
+    
+}
+
+#LinksAba {
+    border: 2px solid green;
+    background-color: rgb(211,211,188);
+    padding: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+    color: rgb(62,62,75);
+
+}
+
+#Bio{
+    border: 2px solid rgb(41, 0, 128);
+    background-color: rgb(252,251,236);
+}
+
+.Titulo{
+    color: rgb(141,138,111);
+}
