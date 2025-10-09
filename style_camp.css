@@ -1,16 +1,16 @@
-body {
+body{
     background-image: url(./Imagens/fundo.png);
 }
 
-#Capa {
+#CapaCamp {
     border: 0px solid red;
     top: 10px;
     margin-right: 34.5%;
     
     
 }
- 
-#LinksAba {
+
+#LinksAbaCamp {
     border: 0px solid green;
     background-color: rgb(211,211,188);
     padding: 25px;
@@ -32,11 +32,11 @@ a:link:hover{
 }
 
 a:link:active{
-    color: rgb(28, 28, 34);
+    color: #4e535d;
     text-decoration: underline;
 }
 
-#Bio{
+#BioCamp{
     padding: 6px;
     border: 0px solid rgb(41, 0, 128);
     background-color: rgb(252,251,236);
@@ -44,18 +44,32 @@ a:link:active{
     margin-top: 5px;
 }
 
-.Titulo{
+#CampH2{
     color: rgb(141,138,111);
 }
 
-#direitos{
-    border: 0px solid;
-    margin-right: 34.5%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+.Imagem{
+    border: 0px solid rgb(79, 38, 224);
+    margin-right: 25.4%;
+    margin-bottom: 5%;
 }
 
-#TxtDireitos{
+.BordaIMG{
+    border: 10px solid #d0d0b7;
+}
+
+.IMG{
+    width: 100%;
+    height: 100%;
+}
+
+#direitosCamp{
+    border: 0px solid red;
+    padding: 15px;
+    margin-right: 34.5%;
+}
+
+#TxtDireitosCamp{
     padding-left: 35%;
     padding-right: 35%;
 }
